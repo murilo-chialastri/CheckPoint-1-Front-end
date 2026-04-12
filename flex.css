@@ -1,0 +1,12 @@
+.titulo{
+    display: flex;
+    margin-inline: 80px;
+}
+.titulos{
+    display: flex;
+    margin: 80px 30px 40px 80px;
+}
+.texto{
+    display: flex;
+    margin: 0px 80px ;
+}

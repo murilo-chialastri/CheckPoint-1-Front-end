@@ -92,3 +92,8 @@
 .g4{
     margin-right: 110px;
 }
+.contato{
+    display: flex;
+    align-items: flex-start;
+}
+

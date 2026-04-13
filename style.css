@@ -114,10 +114,21 @@ h2{
     margin: 20px;
 }
 .contato{
-    
+    font-family: "Poppins", sans-serif;
+    margin: 0px 0px 10px 0px;
+    margin-left:118px ;
+    padding: 5px;
+    font-size: 30px;
+   
+}
+.msg{
+    margin-left: 15px;
+   
 }
 
+
  footer {
+    margin:80px 0px 0px 0px;
     background-color: #064661;
     color: #fff;
     text-align: center;
